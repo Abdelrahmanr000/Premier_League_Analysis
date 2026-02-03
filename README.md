@@ -71,7 +71,7 @@ A detailed PDF presentation explaining:
 - Dashboards
 - Key insights
 
-📁 Location: `Report/presentation.pdf`
+📁 Location: `Report/presentation.rar`
 
 ---
 
