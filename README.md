@@ -50,28 +50,15 @@ This schema ensures high performance and flexibility for analytical queries and 
 - SQL (Data Modeling & Analysis)
 - Microsoft Excel (Pivot Tables & Overview Dashboard)
 - Power BI (Interactive Dashboards)
-- Git & GitHub (Version Control)
 
 ---
 
-## 📈 Dashboards Description
+## 📈 Dashboards
 
 ### 🔹 Overview Dashboard (Excel)
-- High-level KPIs
-- Season summary
-- Match statistics overview
-
 ### 🔹 Team Analysis Dashboard (Power BI)
-- Team performance comparison
-- Wins, losses, goals analysis
-
 ### 🔹 Player Analysis Dashboard (Power BI)
-- Player KPIs
-- Top performers analysis
-
 ### 🔹 Stadium Analysis Dashboard (Power BI)
-- Stadium usage
-- Home advantage insights
 
 ---
 
