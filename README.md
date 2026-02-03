@@ -2,10 +2,10 @@
 
 ## 📊 Dashboards Preview
 
-![Overview Dashboard](Project_Images/overview_dashboard.png)
-![Team Analysis Dashboard](Project_Images/team_analysis_dashboard.png)
-![Stadium Analysis Dashboard](Project_Images/stadium_analysis_dashboard.png)
-![Player Analysis Dashboard](Project_Images/player_analysis_dashboard.png)
+![Overview Dashboard](Dashboards/Overview.png)
+![Team Analysis Dashboard](Dashboards/Team_Analysis.png)
+![Stadium Analysis Dashboard](Dashboards/Stadium_Analysis.png)
+![Player Analysis Dashboard](Dashboards/Player_Analysis.png)
 
 ---
 
