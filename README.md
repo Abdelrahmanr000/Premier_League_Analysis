@@ -28,7 +28,7 @@ The project focuses on delivering actionable insights related to **teams, player
 
 ---
 
-## 🧩 Data Model (Star Schema)
+## 🧩 Data Model
 
 ### Dimension Tables
 - **DimDate**
